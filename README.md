@@ -3,7 +3,7 @@ pg_fire
 
 pg_fire is a PostgreSQL extension to show fire effect.
 
-This exension was created by Tatsuro Yamada for [PostgreSQL Advent calendar 2023](https://qiita.com/yamatattsu/private/9c2ed8078dea4c3c9c84).
+This exension was created by Tatsuro Yamada for [PostgreSQL Advent calendar 2023](https://qiita.com/yamatattsu/items/9c2ed8078dea4c3c9c84).
 
 Contents
 ========
